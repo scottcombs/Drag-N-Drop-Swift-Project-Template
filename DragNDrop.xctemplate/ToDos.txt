@@ -1,0 +1,4 @@
+/*********** APP TO DOs ***************/
+
+2) Turn off Sandboxing
+3) Turn off Code Signing
